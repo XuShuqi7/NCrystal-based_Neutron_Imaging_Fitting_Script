@@ -2,7 +2,7 @@
 A script ```Fit_trans.ipynb``` based on the ```NCrystal``` toolkit to fit time-of-flight neutron imaging data.
 
 ## Brief introduction and citation
-The script was initially developed to fit the cross-sections for four beryllium metals (Xu, S. et al. Impact of extinction effects on neutron transmission in solid beryllium metal. J. Appl. Crystallogr. 58, DOI:10.1107/S1600576725007939 (2025)). 
+The script was initially developed to fit the cross-sections for four beryllium metals (Xu, S. et al. Impact of extinction effects on neutron transmission in solid beryllium metal. J. Appl. Cryst. 58, DOI:10.1107/S1600576725007939 (2025)). 
 
 It was further developed to fit the time-of-flight neutron imaging data on stainless steels measured at the IMAT@ISIS beamline, supported partially by the VR project with grant number 2022-06059: (KTH in collaboration with ESS, Lund Univeristy, 2023-2027): Revealing Hydrogen Embrittlement of Alloys in Real Time (**ReHEART**). The detailed experiments and fitting are presented in **(Xu et al. Quantification in wavelength-resolved neutron imaging: exemplified using stainless steel and  polyethylene for mimicking hydrogen. (submitted to J. Appl. Cryst.)**). If any issues happen when using or adopting this script, please feel free to contact <shuqi.xu@ess.eu>. If you find our script useful for your work, we kindly request you to cite this publication. 
 
